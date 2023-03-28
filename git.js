@@ -22,6 +22,7 @@
 
 // WORKING ON FUNCTIONS
 
+
 function foodProcessor (apples, oranges) {
     const juice ='it cost ${apples} apples, ${oranges} oranges for need';
     return juice;
@@ -30,3 +31,4 @@ const costJuice = foodProcessor(5, 4);
 console.log(costJuice);
 const ebaFufu = foodProcessor (3,7);
 console.log(ebaFufu);
+
